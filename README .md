@@ -1,13 +1,13 @@
-# DIO - Trilha JAVA Básico
 
-Descrição:
-Dado um número inteiro, execute as seguintes ações condicionais:
+# DIO - Trilha JAVA Básico 
+
+Descrição: 
+    Dado um número inteiro, execute as seguintes ações condicionais:
 
 Projeto baseado no estudos:
-
+      
 * lógica de Programação em JAVA
 * Programação Orientada a Objetos.
-
 ## Sintaxe - Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
@@ -29,7 +29,7 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 2. Permita que os dados sejam inseridos via terminal sendo que o usuário receberá a mensagem de qual informação será solicitada, exemplo:
 
 * Programa: "Por favor, digite o número da Agência !"
-* Usuário: 1021 *(depois ENTER para o próximo campo)*
+* Usuário: 1021 *(depois ENTER para o próximo campo)* 
 
 ###### Revise sobre concatenação e classe String com método concat
 
@@ -38,13 +38,9 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 *"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
-
-
 ## Linguagem de Programação Utilizada
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
 ## IDE Utilizada:
 
 
@@ -52,9 +48,10 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 `Intellij`
 
 
+
 ## Apêndice
 
-Desafio retirado de um site para estudos e fortalecimento de lógica de programação.
+Desafio retirado de um site para estudos e fortalecimento de lógica de programação. 
 
-fonte:
-www.dio.me
+fonte: 
+    www.dio.me
